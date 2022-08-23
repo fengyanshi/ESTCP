@@ -24,10 +24,10 @@ This project will compare model predictions of coastal flooding at representativ
    applications
    team
 
-
-Indices and tables
+GALLERY
 ==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+.. image:: images/page1.png
+   :width: 300px
+   :height: 213px
+   :align: left
