@@ -26,8 +26,3 @@ This project will compare model predictions of coastal flooding at representativ
 
 GALLERY
 ==================
-
-.. image:: images/page1.png
-   :width: 300px
-   :height: 213px
-   :align: left
